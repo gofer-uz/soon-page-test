@@ -1,0 +1,4 @@
+baseURL = 'https://gopher.uz/'
+languageCode = 'uz-uz'
+title = 'Soon...'
+theme = 'hugo-theme-hello-friend-ng'
